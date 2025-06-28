@@ -364,7 +364,7 @@ if __name__ == "__main__":
     args = p.parse_args()
 
     # Load model
-    model = YOLO("best_jun21.pt", verbose=False)
+    model = YOLO("best_yolo11.pt", verbose=False)
     print("Loaded YOLO model with classes:", model.names)
     
     # Initialize tracker
