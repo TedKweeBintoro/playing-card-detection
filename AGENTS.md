@@ -4,6 +4,10 @@
 Applies to:
 - `/Users/tejascheeti/Projects/Professional Gaming Software/playing-card-detection`
 
+## Relationship To Workspace Context
+- Workspace-level context lives at:
+  - `/Users/tejascheeti/Projects/Professional Gaming Software/AGENTS.md`
+
 ## Repo Purpose
 Prototype computer-vision stack for detecting playing cards from live camera/video and turning detections into trackable card-state data.
 
