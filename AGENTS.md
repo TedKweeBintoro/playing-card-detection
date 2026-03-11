@@ -2,7 +2,7 @@
 
 ## Scope
 Applies to:
-- `/Users/tejascheeti/Projects/Professional Gaming Software/casino-software/playing-card-detection`
+- `/Users/tejascheeti/Projects/Professional Gaming Software/playing-card-detection`
 
 ## Repo Purpose
 Prototype computer-vision stack for detecting playing cards from live camera/video and turning detections into trackable card-state data.
